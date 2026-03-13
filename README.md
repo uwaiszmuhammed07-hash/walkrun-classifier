@@ -2,8 +2,6 @@
 
 A machine learning web app that predicts whether a person is **walking or running** based on wrist-worn sensor data.
 
-## 🚀 Live Demo
-### 👉 [https://walkrun-classifier.onrender.com](https://walkrun-classifier.onrender.com)
 
 ## 📊 Project Overview
 
