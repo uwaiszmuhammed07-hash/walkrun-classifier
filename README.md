@@ -15,6 +15,9 @@ A machine learning web app that predicts whether a person is **walking or runnin
 | **Test Accuracy** | 99.27% |
 | **Dataset** | 88,588 wrist sensor readings |
 
+## 🚀 Live Demo
+### 👉 [https://walkrun-classifier.onrender.com](https://walkrun-classifier.onrender.com)
+
 ## 🏆 Model Results
 
 | Model | Accuracy |
